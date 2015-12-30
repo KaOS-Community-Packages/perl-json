@@ -1,5 +1,3 @@
-# $Id: PKGBUILD 100320 2013-11-02 09:14:26Z spupykin $
-
 pkgname=perl-json
 pkgver=2.90
 pkgrel=1
