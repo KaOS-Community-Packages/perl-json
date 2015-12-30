@@ -1,6 +1,4 @@
 # $Id: PKGBUILD 100320 2013-11-02 09:14:26Z spupykin $
-# Maintainer: Sergej Pupykin <pupykin.s+arch@gmail.com>
-# Contributor: François Charette <firmicus ατ gmx δοτ net>
 
 pkgname=perl-json
 pkgver=2.90
